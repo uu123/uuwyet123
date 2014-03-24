@@ -1,0 +1,70 @@
+{
+  "Id": "DE_PTO",
+  "Name": "DE_PTO",
+  "Countries": [
+    "DE"
+  ],
+  "KindOfAuthority": [
+    "Receiving Office",
+    "Search Authority",
+    "Preliminary Examination Authority"
+  ],
+  "MainAddress": {
+    "AddressId": 0,
+    "Street": "Zweibrueckenstrasze",
+    "Number": "12",
+    "AdditionalAddressInfo": null,
+    "ZipCode": null,
+    "City": "Muenchen",
+    "Area": null,
+    "Country": "de",
+    "CountryName": null,
+    "EmailAddress": null,
+    "TelephoneNumber": null,
+    "FaxNumber": null
+  },
+  "Addresses": [
+    {
+      "AddressId": 0,
+      "Street": "Zweibrueckenstrasze",
+      "Number": "12",
+      "AdditionalAddressInfo": null,
+      "ZipCode": null,
+      "City": "Muenchen",
+      "Area": null,
+      "Country": "de",
+      "CountryName": null,
+      "EmailAddress": null,
+      "TelephoneNumber": null,
+      "FaxNumber": null
+    },
+    {
+      "AddressId": 0,
+      "Street": "Gitschiner Strasze",
+      "Number": "97",
+      "AdditionalAddressInfo": null,
+      "ZipCode": null,
+      "City": "Berlin",
+      "Area": null,
+      "Country": "de",
+      "CountryName": null,
+      "EmailAddress": null,
+      "TelephoneNumber": null,
+      "FaxNumber": null
+    },
+    {
+      "AddressId": 0,
+      "Street": "Goethestrasze",
+      "Number": "1",
+      "AdditionalAddressInfo": null,
+      "ZipCode": null,
+      "City": "Jena",
+      "Area": null,
+      "Country": "de",
+      "CountryName": null,
+      "EmailAddress": null,
+      "TelephoneNumber": null,
+      "FaxNumber": null
+    }
+  ]
+}
