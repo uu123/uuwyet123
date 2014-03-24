@@ -1,0 +1,10 @@
+{
+	"Name":"admin",
+	"Email":"admin@host.com",
+	"Password":"kSOraf/HgKMgYt2x3zG5S0RwU6hwucirKU8GLFND1dc=",
+	"Salt":"lceQfspL5IWSVA==",
+	"IsActive":true,
+	"IsAdmin":true,
+	"IsEditor":true,
+	"IsClient":true
+}
